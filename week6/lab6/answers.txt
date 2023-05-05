@@ -1,0 +1,8 @@
+Times:
+
+10 simulations: real 0m0.033s | user 0m0.030s | sys 0m0.001s
+100 simulations: real 0m0.026s | user 0m0.022s | sys 0m0.005s
+1000 simulations: real 0m0.035s | user 0m0.034s | sys 0m0.001s
+10000 simulations: real 0m0.211s | user 0m0.150s | sys 0m0.006s
+100000 simulations: real 0m1.173s | user 0m1.158s | sys 0m0.002s
+1000000 simulations: real 0m11.536s | user 0m11.410s | sys 0m0.017s
